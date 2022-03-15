@@ -8,7 +8,7 @@ Easy Notes - notes and lists is an Android Application, design and developed usi
 - It uses Room Database to store the notes & lists.
 
 ## Demo Video Link:
-#### - link => https://www.youtube.com/watch?v=gSBaQel_4Wc
+#### Link => https://www.youtube.com/watch?v=gSBaQel_4Wc
 
 ## Screenshots:
 
