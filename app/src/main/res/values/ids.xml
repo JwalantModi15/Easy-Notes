@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="txtTitle" type="id"></item>
+    <item name="txtDesc" type="id"></item>
+    <item name="imgEdit" type="id"></item>
+    <item name="txtDateTime" type="id"></item>
+</resources>
